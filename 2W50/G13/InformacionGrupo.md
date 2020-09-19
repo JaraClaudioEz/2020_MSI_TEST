@@ -10,8 +10,7 @@
 
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
-| 111545 | Jara, Claudio Ezequiel |[UsuarioGitHub](https://github.com/JaraClaudioEz
-)|[UserLinkedin](https://ar.linkedin.com/in/claudio-ezequiel-jara-7510071a3/)|
+| 111545 | Jara, Claudio Ezequiel |[https://github.com/JaraClaudioEz]|[https://ar.linkedin.com/in/claudio-ezequiel-jara-7510071a3/]|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
@@ -25,4 +24,4 @@
 - [ ] Entrega Tercera Parte
 
 ## Trello :clipboard:
-- [*] Capturas del tablero de Trello
+- [.] Capturas del tablero de Trello
