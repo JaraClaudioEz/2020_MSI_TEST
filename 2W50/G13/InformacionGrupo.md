@@ -11,8 +11,8 @@
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
 | 111545 | Jara, Claudio Ezequiel |[JaraClaudioEz](https://github.com/JaraClaudioEz)|[Claudio Ezequiel Jara](https://ar.linkedin.com/in/claudio-ezequiel-jara-7510071a3/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111534 | Gaitan,Lucila Anahi |Lucilagaitan](https://github.com/lucilagaitan)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/in/lucila-gaitán-5a1046175)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 
 
