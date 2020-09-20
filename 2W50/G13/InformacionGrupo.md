@@ -13,15 +13,13 @@
 | 111545 | Jara, Claudio Ezequiel |[JaraClaudioEz](https://github.com/JaraClaudioEz)|[Claudio Ezequiel Jara](https://ar.linkedin.com/in/claudio-ezequiel-jara-7510071a3/)|
 | 111494 | Barat, Emiliano |[EmiBaratUTN](https://github.com/EmiBaratUTN)|[Emiliano Barat](https://ar.linkedin.com/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-<<<<<<< HEAD
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 | 111484 | Alarcon, Maria Laura |[AlarconLaura](https://github.com/AlarconLaura)|[UserLinkedin](https://ar.linkedin.com/)|
-=======
+| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+
 | 111525 | Dri Furlan, Alejandro Matias |[AlejandroMatiasDriFurlan](https://github.com/AlejandroMatiasDriFurlan)|[UserLinkedin](https://ar.linkedin.com/)|
->>>>>>> 515b30a1ae3aa53db779ecca116c10e87bb93dff
 
 
 # Checklist de estado de actividad
