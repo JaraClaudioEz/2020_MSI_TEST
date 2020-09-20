@@ -3,7 +3,7 @@
 
 ## Nombre del Grupo :zap:
 
-* [ADefinir]
+* [LosMagios]
 
 
 ## Integrantes :busts_in_silhouette:
